@@ -1,0 +1,748 @@
+2025-07-21 17:46:44,717 - WARNING - User registration failed: Missing fields
+2025-07-21 17:46:55,101 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-21 17:47:28,547 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:50:14,919 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:50:16,879 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:50:17,986 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:54:29,809 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:54:31,928 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:54:32,927 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:54:33,992 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:54:34,930 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:54:58,202 - INFO - inventory fetched successfully for user 84029
+2025-07-21 17:55:59,669 - WARNING - Add product failed: Missing fields
+2025-07-21 17:56:47,751 - WARNING - Add product failed: Missing fields
+2025-07-21 17:57:49,334 - WARNING - Add product failed: Missing fields
+2025-07-21 17:58:25,590 - WARNING - Add product failed: Missing fields
+2025-07-21 18:41:10,460 - WARNING - User registration failed: Missing or invalid token
+2025-07-21 18:41:17,901 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-21 18:41:48,002 - INFO - inventory fetched successfully for user 84029
+2025-07-21 18:43:00,462 - WARNING - Add product failed: Missing fields
+2025-07-21 18:43:07,762 - WARNING - Add product failed: Missing fields
+2025-07-21 18:43:44,531 - WARNING - Order creation failed: inventory not found (None)
+2025-07-21 19:03:12,416 - INFO - Product added to cart for aayanali1208@gmail.com: 3 with quantity 4
+2025-07-21 19:05:10,719 - INFO - Product added to cart for aayanali1208@gmail.com: 3 with quantity 4
+2025-07-21 19:08:53,486 - INFO - Product added to cart for aayanali1208@gmail.com: 3 with quantity 4
+2025-07-21 19:10:48,180 - INFO - Product added to cart for aayanali1208@gmail.com: 5 with quantity 9
+2025-07-21 19:14:30,459 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-21 19:15:08,692 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 19:15:17,105 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 21:46:02,277 - WARNING - User registration failed: Missing or invalid token
+2025-07-21 21:46:10,332 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-21 21:46:55,693 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 21:47:30,405 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 21:49:16,507 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 21:49:37,117 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 21:53:24,301 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 21:53:36,346 - WARNING - Cart update failed: Missing fields
+2025-07-21 21:53:42,196 - WARNING - Cart update failed: Missing fields
+2025-07-21 21:53:50,165 - WARNING - Cart update failed: Missing fields
+2025-07-21 21:55:32,307 - WARNING - Cart fetch failed: Missing fields
+2025-07-21 21:55:36,573 - WARNING - Cart fetch failed: Missing fields
+2025-07-21 21:55:52,563 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 21:58:26,658 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-21 21:59:34,112 - WARNING - Cart fetch failed: Missing fields
+2025-07-21 21:59:39,479 - WARNING - Cart fetch failed: Missing fields
+2025-07-21 22:00:09,455 - WARNING - Cart fetch failed: Missing fields
+2025-07-21 22:00:43,029 - WARNING - Cart fetch failed: Missing fields
+2025-07-21 22:00:55,490 - WARNING - Cart update failed: product not found (None)
+2025-07-21 22:01:00,094 - WARNING - Cart update failed: Invalid cart ID (9)
+2025-07-21 22:01:10,139 - WARNING - Cart update failed: Invalid cart ID (9)
+2025-07-21 22:01:57,613 - WARNING - Cart update failed: Invalid cart ID (9)
+2025-07-21 22:04:40,454 - WARNING - Cart deletion failed: Invalid cart ID (6)
+2025-07-21 22:04:44,611 - WARNING - Cart deletion failed: Invalid cart ID (7)
+2025-07-21 22:04:48,447 - WARNING - Cart deletion failed: Invalid cart ID (7)
+2025-07-21 22:04:51,462 - INFO - Cart item deleted for 9
+2025-07-21 22:05:28,789 - INFO - Cart item deleted for 9
+2025-07-21 22:07:33,023 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-21 22:20:14,958 - WARNING - User registration failed: Missing or invalid token
+2025-07-21 22:20:20,850 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-21 22:20:43,680 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-21 22:22:19,671 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-21 22:24:27,160 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-21 22:26:18,190 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-21 22:34:08,495 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-21 22:34:08,528 - INFO - Order confirmed and cart cleared for user 84029
+2025-07-21 22:41:09,903 - INFO - Order confirmed: order_id=None, user=84029, inventory=5
+2025-07-21 22:41:09,904 - ERROR - Error placing order: update_inventory_quantity() got an unexpected keyword argument 'quantity'. Did you mean 'quality'?
+2025-07-21 22:43:40,312 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-21 22:43:40,333 - INFO - Order confirmed and cart cleared for user 84029
+2025-07-22 09:55:47,341 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 09:56:00,303 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 09:56:00,371 - INFO - Order confirmed and cart cleared for user 84029
+2025-07-22 10:02:58,135 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_cart` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_cart` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 54, in confirm_order
+        order_id = insert_order(
+                   ~~~~~~~~~~~~^
+    user_id,
+    ^^^^^^^^
+    ...<5 lines>...
+    phone_number
+    ^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 27, in insert_order
+    cursor.execute(
+    ~~~~~~~~~~~~~~^
+        "INSERT INTO orders (user_id, product_id, address, city, country, zipcode, phone_number) VALUES (%s, %s, %s, %s, %s, %s, %s)",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (user_id, product_id, address, city, country, zipcode, phone_number)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.IntegrityError: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_cart` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+2025-07-22 10:19:01,328 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_product` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_product` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 54, in confirm_order
+        order_id = insert_order(
+                   ~~~~~~~~~~~~^
+    user_id,
+    ^^^^^^^^
+    ...<5 lines>...
+    phone_number
+    ^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 27, in insert_order
+    cursor.execute(
+    ~~~~~~~~~~~~~~^
+        "INSERT INTO orders (user_id, product_id, address, city, country, zipcode, phone_number) VALUES (%s, %s, %s, %s, %s, %s, %s)",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (user_id, product_id, address, city, country, zipcode, phone_number)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.IntegrityError: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_product` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+2025-07-22 10:34:31,563 - WARNING - User registration failed: Missing or invalid token
+2025-07-22 10:34:35,258 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 10:34:52,773 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_product` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_product` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 54, in confirm_order
+        order_id = insert_order(
+                   ~~~~~~~~~~~~^
+    user_id,
+    ^^^^^^^^
+    ...<5 lines>...
+    phone_number
+    ^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 27, in insert_order
+    cursor.execute(
+    ~~~~~~~~~~~~~~^
+        "INSERT INTO orders (user_id, product_id, address, city, country, zipcode, phone_number) VALUES (%s, %s, %s, %s, %s, %s, %s)",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (user_id, product_id, address, city, country, zipcode, phone_number)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.IntegrityError: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`test_db`.`orders`, CONSTRAINT `fk_orders_product` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+2025-07-22 10:39:03,646 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 10:39:03,832 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`test_db`.`order_items`, CONSTRAINT `fk_orders_order` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: Cannot add or update a child row: a foreign key constraint fails (`test_db`.`order_items`, CONSTRAINT `fk_orders_order` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 75, in confirm_order
+                order_items(
+                ~~~~~~~~~~~^
+        order_id=order_id,
+        ^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        product_name=get_product_name(item["product_id"], item["product_size"], item["product_color"], item["product_quality"])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 71, in order_items
+    cursor.execute(
+    ~~~~~~~~~~~~~~^
+        "INSERT INTO order_items (order_id, product_id, quantity, product_size, product_color, product_quality, product_price, product_name) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (order_id, product_id, quantity, size, color, quality, product_price, product_name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.IntegrityError: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`test_db`.`order_items`, CONSTRAINT `fk_orders_order` FOREIGN KEY (`product_id`) REFERENCES `inventory` (`id`))
+2025-07-22 10:42:14,831 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 10:42:14,861 - INFO - Order confirmed and cart cleared for user 84029
+2025-07-22 10:54:08,025 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 10:54:37,047 - WARNING - Order confirmation failed: Missing fields
+2025-07-22 10:54:45,306 - WARNING - Order confirmation failed: Missing fields
+2025-07-22 10:55:25,508 - INFO - inventory fetched successfully for user 84029
+2025-07-22 10:55:32,028 - WARNING - Order confirmation failed: Missing fields
+2025-07-22 10:57:27,199 - INFO - Product added to cart for aayanali1208@gmail.com: 3 with quantity 3
+2025-07-22 10:57:56,883 - INFO - Product added to cart for aayanali1208@gmail.com: 5 with quantity 5
+2025-07-22 10:58:04,373 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-22 10:59:01,039 - INFO - Order confirmed for user 84029: inventory: 3
+2025-07-22 10:59:01,135 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 1265 (01000): Data truncated for column 'product_size' at row 1
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'product_size' at row 1
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 75, in confirm_order
+                order_items(
+                ~~~~~~~~~~~^
+        order_id=order_id,
+        ^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        product_name=get_product_name(item["product_id"], item["product_size"], item["product_color"], item["product_quality"])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 71, in order_items
+    cursor.execute(
+    ~~~~~~~~~~~~~~^
+        "INSERT INTO order_items (order_id, product_id, quantity, product_size, product_color, product_quality, product_price, product_name) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (order_id, product_id, quantity, size, color, quality, product_price, product_name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'product_size' at row 1
+2025-07-22 10:59:30,720 - WARNING - Order confirmation failed: Missing fields
+2025-07-22 11:00:07,359 - INFO - Product added to cart for aayanali1208@gmail.com: 5 with quantity 5
+2025-07-22 11:00:32,575 - INFO - Product added to cart for aayanali1208@gmail.com: 3 with quantity 7
+2025-07-22 11:00:42,094 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-22 11:02:52,009 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 11:02:52,031 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 1265 (01000): Data truncated for column 'product_quality' at row 1
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 772, in cmd_query
+    self._cmysql.query(
+    ~~~~~~~~~~~~~~~~~~^
+        query,
+        ^^^^^^
+    ...<3 lines>...
+        query_attrs=self.query_attrs,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'product_quality' at row 1
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 75, in confirm_order
+                order_items(
+                ~~~~~~~~~~~^
+        order_id=order_id,
+        ^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+        product_name=get_product_name(item["product_id"], item["product_size"], item["product_color"], item["product_quality"])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 71, in order_items
+    cursor.execute(
+    ~~~~~~~~~~~~~~^
+        "INSERT INTO order_items (order_id, product_id, quantity, product_size, product_color, product_quality, product_price, product_name) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        (order_id, product_id, quantity, size, color, quality, product_price, product_name)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 356, in execute
+    self._connection.cmd_query(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._stmt_partition["mappable_stmt"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        raw_as_string=self._raw_as_string,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 97, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 781, in cmd_query
+    raise get_mysql_exception(
+        err.errno, msg=err.msg, sqlstate=err.sqlstate
+    ) from err
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'product_quality' at row 1
+2025-07-22 11:03:19,668 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 11:03:19,719 - INFO - Order confirmed for user 84029: inventory: 3
+2025-07-22 11:03:19,764 - INFO - Order confirmed and cart cleared for user 84029
+2025-07-22 11:08:49,869 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 11:08:49,895 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 'cart_id'
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 87, in confirm_order
+    delete_from_cart(item["cart_id"])
+                     ~~~~^^^^^^^^^^^
+KeyError: 'cart_id'
+2025-07-22 11:09:01,074 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 11:09:01,116 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 'cart_id'
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 87, in confirm_order
+    delete_from_cart(item["cart_id"])
+                     ~~~~^^^^^^^^^^^
+KeyError: 'cart_id'
+2025-07-22 11:09:41,818 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 11:09:41,849 - ERROR - Order confirmation failed for aayanali1208@gmail.com: 'cart_id'
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 87, in confirm_order
+    delete_from_cart(item["cart_id"])
+                     ~~~~^^^^^^^^^^^
+KeyError: 'cart_id'
+2025-07-22 11:11:16,809 - INFO - Order confirmed for user 84029: inventory: 5
+2025-07-22 11:11:16,912 - INFO - Order confirmed for user 84029: inventory: 3
+2025-07-22 11:11:16,984 - INFO - Order confirmed and cart cleared for user 84029
+2025-07-22 11:13:55,482 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:13:55,487 - WARNING - No orders found for user 84029
+2025-07-22 11:15:35,208 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:15:35,217 - WARNING - No orders found for user 84029
+2025-07-22 11:17:39,818 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:17:39,822 - WARNING - No orders found for user 84029
+2025-07-22 11:26:48,688 - WARNING - User registration failed: Missing or invalid token
+2025-07-22 11:26:52,852 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 11:27:07,349 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:27:07,358 - WARNING - No orders found for user 84029
+2025-07-22 11:38:35,011 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 11:40:19,586 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-22 11:40:31,694 - INFO - inventory fetched successfully for user 84029
+2025-07-22 11:40:51,288 - WARNING - Add product failed: Missing fields
+2025-07-22 11:40:56,406 - WARNING - Add product failed: Missing fields
+2025-07-22 11:42:02,890 - INFO - Product added to cart for aayanali1208@gmail.com: 3 with quantity 2
+2025-07-22 11:42:29,981 - INFO - Product added to cart for aayanali1208@gmail.com: 4 with quantity 3
+2025-07-22 11:42:37,236 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-22 11:43:18,804 - INFO - Order confirmed for user 84029: inventory: 3
+2025-07-22 11:43:18,895 - INFO - Order confirmed for user 84029: inventory: 4
+2025-07-22 11:43:18,961 - INFO - Order confirmed and cart cleared for user 84029
+2025-07-22 11:44:07,009 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:44:07,013 - WARNING - No orders found for user 84029
+2025-07-22 11:50:32,653 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:50:32,657 - WARNING - No orders found for user 84029
+2025-07-22 11:50:34,774 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:50:34,780 - WARNING - No orders found for user 84029
+2025-07-22 11:50:36,056 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:50:36,061 - WARNING - No orders found for user 84029
+2025-07-22 11:50:37,036 - INFO - Total order amount for user 84029: 0
+2025-07-22 11:50:37,043 - WARNING - No orders found for user 84029
+2025-07-22 11:52:04,816 - INFO - Product added to cart for aayanali1208@gmail.com: 4 with quantity 1
+2025-07-22 11:52:42,879 - INFO - Product added to cart for aayanali1208@gmail.com: 4 with quantity 1
+2025-07-22 11:53:25,168 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-22 11:53:49,820 - INFO - Order confirmed for user 84029: inventory: 4
+2025-07-22 11:53:49,878 - INFO - Order confirmed and cart cleared for user 84029
+2025-07-22 11:54:26,572 - INFO - Total order amount for user 84029: 79.25
+2025-07-22 11:54:26,575 - INFO - Orders retrieved successfully for aayanali1208@gmail.com
+2025-07-22 11:55:58,574 - INFO - Total order amount for user 84029: 79.25
+2025-07-22 11:55:58,576 - INFO - Orders retrieved successfully for aayanali1208@gmail.com
+2025-07-22 11:58:37,276 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 11:58:48,167 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 11:59:56,043 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:00:00,604 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:01:07,363 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:01:09,029 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:02:08,100 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:03:18,780 - INFO - Order address updated successfully for aayanali1208@gmail.com
+2025-07-22 12:03:35,160 - INFO - Order address updated successfully for aayanali1208@gmail.com
+2025-07-22 12:04:57,926 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:06:52,583 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:09:16,882 - WARNING - User registration failed: Missing or invalid token
+2025-07-22 12:09:22,525 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 12:09:35,143 - ERROR - Order address update failed for aayanali1208@gmail.com: Order not found
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 143, in update_order_address_model
+    raise Exception("Order not found")
+Exception: Order not found
+2025-07-22 12:11:30,699 - ERROR - Order address update failed for aayanali1208@gmail.com: Order not found
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 139, in update_order_address_model
+    raise Exception("Order not found")
+Exception: Order not found
+2025-07-22 12:11:41,737 - ERROR - Order address update failed for aayanali1208@gmail.com: Order not found
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 139, in update_order_address_model
+    raise Exception("Order not found")
+Exception: Order not found
+2025-07-22 12:11:45,825 - ERROR - Order address update failed for aayanali1208@gmail.com: Order not foud
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 206, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 139, in update_order_address_model
+    raise Exception("Order not foud")
+Exception: Order not foud
+2025-07-22 12:11:55,998 - INFO - Order address updated successfully for aayanali1208@gmail.com
+2025-07-22 12:14:20,418 - WARNING - Order item update failed: Missing fields
+2025-07-22 12:14:32,916 - ERROR - Order item update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 124, in update_order_item_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:15:46,515 - ERROR - Order item update failed for aayanali1208@gmail.com: No result set to fetch from
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 118, in update_order_item_model
+    if not cursor.fetchone():
+           ~~~~~~~~~~~~~~~^^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 732, in fetchone
+    self._check_executed()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 219, in _check_executed
+    raise InterfaceError(ERR_NO_RESULT_TO_FETCH)
+mysql.connector.errors.InterfaceError: No result set to fetch from
+2025-07-22 12:16:41,639 - ERROR - Order item update failed for aayanali1208@gmail.com: No result set to fetch from
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 118, in update_order_item_model
+    if not cursor.fetchone():
+           ~~~~~~~~~~~~~~~^^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 732, in fetchone
+    self._check_executed()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 219, in _check_executed
+    raise InterfaceError(ERR_NO_RESULT_TO_FETCH)
+mysql.connector.errors.InterfaceError: No result set to fetch from
+2025-07-22 12:16:54,500 - ERROR - Order item update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 126, in update_order_item_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:17:45,818 - WARNING - Order item update failed: Missing fields
+2025-07-22 12:18:36,903 - WARNING - Order item update failed: Missing fields
+2025-07-22 12:18:56,201 - WARNING - Order item update failed: Missing fields
+2025-07-22 12:19:46,519 - WARNING - Order item update failed: Missing fields
+2025-07-22 12:20:41,776 - WARNING - Order item update failed: Missing fields
+2025-07-22 12:22:17,250 - ERROR - Order item update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 126, in update_order_item_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:22:33,902 - INFO - Order item updated successfully for aayanali1208@gmail.com
+2025-07-22 12:22:54,128 - ERROR - Order item update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 126, in update_order_item_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:23:09,098 - INFO - Order item updated successfully for aayanali1208@gmail.com
+2025-07-22 12:23:42,901 - ERROR - Order item update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 126, in update_order_item_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:23:46,767 - ERROR - Order item update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 126, in update_order_item_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:24:25,137 - ERROR - Order item update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 126, in update_order_item_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:24:30,185 - ERROR - Order item update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 176, in update_order_item
+    update_order_item_model(order_id, product_id, quantity, product_size, product_color, product_quality)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 126, in update_order_item_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 12:24:54,345 - INFO - Total order amount for user 84029: 396.25
+2025-07-22 12:24:54,351 - INFO - Orders retrieved successfully for aayanali1208@gmail.com
+2025-07-22 12:25:17,737 - INFO - Order deleted successfully for aayanali1208@gmail.com
+2025-07-22 12:56:02,574 - INFO - User registered successfully: Aayan (aayanali1208@gmail.com)
+2025-07-22 12:56:47,415 - INFO - User registered successfully: Aayanali (aayanali1208@gmail.com)
+2025-07-22 12:57:54,397 - INFO - User details updated successfully for aayanali1208@gmail.com
+2025-07-22 13:47:45,267 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 13:48:02,838 - INFO - inventory fetched successfully for user 84030
+2025-07-22 13:49:10,728 - INFO - inventory fetched successfully for user 84030
+2025-07-22 13:49:28,224 - WARNING - Add product failed: Missing fields
+2025-07-22 13:49:33,499 - WARNING - Add product failed: Missing fields
+2025-07-22 13:49:46,018 - INFO - Product added to cart for aayanali1208@gmail.com: 3 with quantity 3
+2025-07-22 13:52:03,745 - WARNING - Cart fetch failed: Missing fields
+2025-07-22 13:52:31,195 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-22 13:52:41,572 - WARNING - Cart fetch failed: Missing fields
+2025-07-22 13:57:00,837 - WARNING - Cart fetch failed: Missing fields
+2025-07-22 13:57:17,528 - INFO - Cart fetched for aayanali1208@gmail.com
+2025-07-22 14:06:59,325 - INFO - Order confirmed for user 84030: inventory: 4
+2025-07-22 14:06:59,386 - INFO - Order confirmed and cart cleared for user 84030
+2025-07-22 14:12:42,560 - WARNING - Order confirmation failed: No items in cart for user (aayanali1208@gmail.com)
+2025-07-22 14:19:49,885 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 14:20:01,408 - INFO - Product added to cart for aayanali1208@gmail.com: 5 with quantity 2
+2025-07-22 14:20:46,694 - INFO - Order confirmed for user 84030: inventory: 5
+2025-07-22 14:20:46,739 - INFO - Order confirmed and cart cleared for user 84030
+2025-07-22 14:23:09,364 - INFO - Total order amount for user 84030: 213.98
+2025-07-22 14:23:09,369 - INFO - Orders retrieved successfully for aayanali1208@gmail.com
+2025-07-22 14:24:47,520 - ERROR - Order address update failed for aayanali1208@gmail.com: Update failed
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 224, in update_order_address
+    update_order_address_model(order_id, address, city, country, zipcode, phone_number)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\model\order_model.py", line 150, in update_order_address_model
+    raise Exception("Update failed")
+Exception: Update failed
+2025-07-22 14:24:59,895 - INFO - Order address updated successfully for aayanali1208@gmail.com
+2025-07-22 14:27:26,470 - INFO - Order item updated successfully for aayanali1208@gmail.com
+2025-07-22 14:30:20,165 - INFO - Order deleted successfully for aayanali1208@gmail.com
+2025-07-22 16:12:45,291 - INFO - User signed in successfully: aayanali1208@gmail.com
+2025-07-22 16:13:04,395 - INFO - Order item updated successfully for aayanali1208@gmail.com
+2025-07-22 16:13:37,784 - INFO - Order item updated successfully for aayanali1208@gmail.com
+2025-07-22 16:13:58,929 - INFO - Order item updated successfully for aayanali1208@gmail.com
+2025-07-22 16:14:21,417 - INFO - Order item updated successfully for aayanali1208@gmail.com
+2025-07-22 16:14:32,190 - INFO - Order item updated successfully for aayanali1208@gmail.com
+2025-07-22 16:18:41,366 - INFO - Order deleted successfully for aayanali1208@gmail.com
+2025-07-22 16:29:53,086 - INFO - Product added to cart for aayanali1208@gmail.com: 4 with quantity 4
+2025-07-22 16:30:49,901 - INFO - Order confirmed for user 84030: inventory: 4
+2025-07-22 16:30:49,947 - INFO - Order confirmed and cart cleared for user 84030
+2025-07-22 16:31:45,094 - WARNING - Order deletion failed: Missing fields
+2025-07-22 16:31:49,615 - WARNING - Order deletion failed: Missing fields
+2025-07-22 16:31:51,023 - WARNING - Order deletion failed: Missing fields
+2025-07-22 16:32:19,250 - ERROR - Order deletion failed for aayanali1208@gmail.com: 'function' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 248, in delete_orders
+    for item in order_items:
+                ^^^^^^^^^^^
+TypeError: 'function' object is not iterable
+2025-07-22 16:32:43,395 - ERROR - Order deletion failed for aayanali1208@gmail.com: 'function' object is not iterable
+Traceback (most recent call last):
+  File "C:\Users\mnarv\OneDrive\Desktop\ALL WORK\project_SQL+DB\controller\order_controller.py", line 248, in delete_orders
+    for item in order_items:
+                ^^^^^^^^^^^
+TypeError: 'function' object is not iterable
+2025-07-22 16:35:09,767 - INFO - Order deleted successfully for aayanali1208@gmail.com

@@ -1,0 +1,52 @@
+import time
+from multiprocessing import Pool, cpu_count
+from concurrent.futures import ThreadPoolExecutor
+
+# Worker function for each process
+# Each process will use threads to insert users
+
+def insert_users_threaded(args):
+    users, num_threads = args
+    import mysql.connector
+    def insert_user(username, email, password):
+        conn = mysql.connector.connect(
+            host="localhost",
+            user="root",
+            password="Aayanali@1208",
+            database="test_db"
+        )
+        cursor = conn.cursor()
+        cursor.execute(
+            "INSERT INTO users (username, email, password) VALUES (%s, %s, %s)",
+            (username, email, password)
+        )
+        conn.commit()
+        cursor.close()
+        conn.close()
+    with ThreadPoolExecutor(max_workers=num_threads) as executor:
+        futures = []
+        for username, email, password in users:
+            futures.append(executor.submit(insert_user, username, email, password))
+        for future in futures:
+            future.result()
+
+def bulk_insert_users(n, num_processes=8, num_threads=5):
+    start_time = time.time()
+    # Split users into chunks for each process
+    users = [
+        (f"user{i}", f"user{i}@mail.com", "password")
+        for i in range(n)
+    ]
+    chunk_size = n // num_processes
+    user_chunks = [users[i*chunk_size:(i+1)*chunk_size] for i in range(num_processes)]
+    # Handle any remainder
+    if n % num_processes:
+        user_chunks[-1].extend(users[num_processes*chunk_size:])
+    args_list = [(chunk, num_threads) for chunk in user_chunks]
+    with Pool(processes=num_processes) as pool:
+        pool.map(insert_users_threaded, args_list)
+    end_time = time.time()
+    print(f"Inserted {n} users in {end_time - start_time:.2f} seconds using {num_processes} processes and {num_threads} threads per process.")
+
+if __name__ == "__main__":
+    bulk_insert_users(2000, num_processes=8, num_threads=5)
