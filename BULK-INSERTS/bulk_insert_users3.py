@@ -12,7 +12,7 @@ def insert_user_direct(args):
     )
     cursor = conn.cursor()
     cursor.execute(
-        "INSERT INTO project (username, email, password) VALUES (%s, %s, %s)",
+        "INSERT INTO users (username, email, password) VALUES (%s, %s, %s)",
         (username, email, password)
     )
     conn.commit()

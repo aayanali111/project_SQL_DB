@@ -1,4 +1,10 @@
 import time
+
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from model.user_model import insert_user
 from concurrent.futures import ThreadPoolExecutor
 
@@ -17,4 +23,4 @@ def bulk_insert_users(n, max_workers=20):
     print(f"Inserted {n} users in {end_time - start_time:.2f} seconds.")
 
 if __name__ == "__main__":
-    bulk_insert_users(2000)
+    bulk_insert_users(500)
